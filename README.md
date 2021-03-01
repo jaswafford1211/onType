@@ -1,7 +1,7 @@
 # onType
 
 From JAS
-<br>
+<br><br>
 Our Mission
 We are here to make a great code text editor.
 
